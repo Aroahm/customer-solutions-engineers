@@ -7,7 +7,7 @@ Please find below a list of questions, try to get through as many questions as y
 
 Come back to us with your answers as soon as you feel ready to move on!
 
-Follow the Getting started page of the Stuart API documentation to create your own account in the Sandbox environment. Provide us with the email address used to create the account. 
+Follow the [Getting started page of the Stuart API documentation](https://stuart.api-docs.io/v2/general-topics/getting-started) to create your own account in the Sandbox environment. Provide us with the email address used to create the account. 
 1. Play around creating jobs and trying out some of the endpoints we offer. (You needn’t provide us an ‘answer’ for this stage)
 2. In what way/s can you identify a job that you have created?
 3. How can you find out what is happening with the job (as the client or as the recipient)? 

@@ -15,7 +15,7 @@ Follow the [Getting started page of the Stuart API documentation](https://stuart
 5. How long was the job searching for a driver?
 6. When did the driver eventually deliver the package?
 7. Create a new job which should be delivered to your customer at 6:30PM (either today or tomorrow depending when you are doing this test). 
-8. At what time should the driver pick up the package?
+8. At what time should the driver pick up the package created in question 7?
 9. How would you identify when the driver eventually picks up the package?
 
 
